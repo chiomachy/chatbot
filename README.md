@@ -1,5 +1,5 @@
 # Building a Chatbot on Azure
-This file contains URLs from the demos in Cloud Academy's _Building a Chatbot on Azure_ course.  
+This file contains URLs from the demos a Chatbot on Azure_ course.  
 
 ### Introduction
 [Azure Free Trial](https://azure.microsoft.com/free)  
